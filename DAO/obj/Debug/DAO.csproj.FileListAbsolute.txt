@@ -1,0 +1,106 @@
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\obj\Debug\DAO.pdb
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DTO.dll.config
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QuanLy_ChLaptop_LTQL\DAO\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.dll.config
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.pdb
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.pdb
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.dll.config
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.dll
+D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.pdb
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.dll.config
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.pdb
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.pdb
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.dll.config
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.dll
+D:\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.pdb
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.dll.config
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DAO.pdb
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.pdb
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DTO.dll.config
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.pdb

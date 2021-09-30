@@ -1,0 +1,20 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=HSSDPM.chm
+Contents file=HSSDPM.hhc
+Index file=HSSDPM.hhk
+Enhanced decompilation=Yes
+Binary TOC=Yes
+Full-text search=Yes
+Language=0x0409
+Title=HSSDPM
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="HSSDPM","HSSDPM.hhc","HSSDPM.hhk","Help.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+Help.mht
+Help2.mht
+
