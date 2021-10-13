@@ -56,7 +56,7 @@ namespace QuanLy_ChLaptop
             this.DS_NhoHon20 = new System.Windows.Forms.Label();
             this.lbl_ThongBaoSanPham = new System.Windows.Forms.Label();
             this.lbl_TongSanPham = new System.Windows.Forms.Label();
-            this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
+            this.group_info_account = new DevExpress.XtraEditors.GroupControl();
             this.lbl_TimeVao = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.lbl_TenTaiKhoan = new System.Windows.Forms.Label();
@@ -65,7 +65,7 @@ namespace QuanLy_ChLaptop
             ((System.ComponentModel.ISupportInitialize)(this.pic_BackGround.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gp_Info)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cmb_SanPhamGiam)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.group_info_account)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.images)).BeginInit();
             this.SuspendLayout();
             // 
@@ -402,17 +402,17 @@ namespace QuanLy_ChLaptop
             this.lbl_TongSanPham.TabIndex = 0;
             this.lbl_TongSanPham.Text = "Tổng sản phẩm =";
             // 
-            // groupControl2
+            // group_info_account
             // 
-            this.groupControl2.Controls.Add(this.lbl_TimeVao);
-            this.groupControl2.Controls.Add(this.label5);
-            this.groupControl2.Controls.Add(this.lbl_TenTaiKhoan);
-            this.groupControl2.Controls.Add(this.label7);
-            this.groupControl2.Location = new System.Drawing.Point(2, 464);
-            this.groupControl2.Name = "groupControl2";
-            this.groupControl2.Size = new System.Drawing.Size(314, 134);
-            this.groupControl2.TabIndex = 7;
-            this.groupControl2.Text = "Thông tin tài khoản";
+            this.group_info_account.Controls.Add(this.lbl_TimeVao);
+            this.group_info_account.Controls.Add(this.label5);
+            this.group_info_account.Controls.Add(this.lbl_TenTaiKhoan);
+            this.group_info_account.Controls.Add(this.label7);
+            this.group_info_account.Location = new System.Drawing.Point(2, 464);
+            this.group_info_account.Name = "groupControl2";
+            this.group_info_account.Size = new System.Drawing.Size(314, 134);
+            this.group_info_account.TabIndex = 7;
+            this.group_info_account.Text = "Thông tin tài khoản";
             // 
             // lbl_TimeVao
             // 
@@ -470,7 +470,7 @@ namespace QuanLy_ChLaptop
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1202, 599);
             this.Controls.Add(this.images);
-            this.Controls.Add(this.groupControl2);
+            this.Controls.Add(this.group_info_account);
             this.Controls.Add(this.cmb_SanPhamGiam);
             this.Controls.Add(this.gp_Info);
             this.Controls.Add(this.label3);
@@ -485,7 +485,7 @@ namespace QuanLy_ChLaptop
             ((System.ComponentModel.ISupportInitialize)(this.pic_BackGround.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gp_Info)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cmb_SanPhamGiam)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.group_info_account)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.images)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -519,7 +519,7 @@ namespace QuanLy_ChLaptop
         private MetroFramework.Controls.MetroComboBox cmb_SanPhamHet;
         private System.Windows.Forms.Label lbl_ThongBao;
         private System.Windows.Forms.Label lbl_ThongBaoSanPham;
-        private DevExpress.XtraEditors.GroupControl groupControl2;
+        private DevExpress.XtraEditors.GroupControl group_info_account;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label lbl_TenTaiKhoan;
