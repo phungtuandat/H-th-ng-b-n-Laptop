@@ -101,6 +101,5 @@ D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ja\DevExpres
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
-D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.dll
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DAO\obj\Debug\DAO.pdb

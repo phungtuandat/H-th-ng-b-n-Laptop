@@ -120,7 +120,14 @@ namespace QuanLy_ChLaptop
             }
             else
             {
-                lbl_ThanhTien1SP.Text = (int.Parse(txt_SoLuongMuonMua.Text) * int.Parse(txt_GiaNhap.Text)).ToString();
+                if(txt_GiaNhap.Text == "")
+                {
+                    return;
+                }
+                else
+                {
+                    lbl_ThanhTien1SP.Text = (int.Parse(txt_SoLuongMuonMua.Text) * int.Parse(txt_GiaNhap.Text)).ToString();
+                }
             }
         }
         private void btn_ThemSanPham_Click(object sender, EventArgs e)
@@ -169,12 +176,11 @@ namespace QuanLy_ChLaptop
                 }
                 MessageBox.Show("Thêm thành công sản phẩm");
                 LoadHoaDonNhapChiTiet();
-                txt_SoLuongMuonMua.Text = "";
-                txt_GiaNhap.Text = "";
+                string money = (int.Parse(txt_GiaNhap.Text) + 1000000).ToString();
                 var MESS = MessageBox.Show("Bạn có muốn cập nhật giá mới", "Cập nhật", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
                 if (DialogResult.OK == MESS)
                 {
-                    if (BUS_NhapHang.CapNhatGiaChoLaptop(int.Parse(txt_GiaNhap.Text) + 1000000, cmb_SanPham.SelectedValue.ToString()) == false)
+                    if (BUS_NhapHang.CapNhatGiaChoLaptop(money, cmb_SanPham.SelectedValue.ToString()) == false)
                     {
                         MessageBox.Show("Cập nhật giá cho sản phẩm không thành công");
                         return;
@@ -182,6 +188,9 @@ namespace QuanLy_ChLaptop
                     else
                     {
                         MessageBox.Show("Cập nhật giá thành công");
+                        txt_SoLuongMuonMua.Text = "";
+                        txt_GiaNhap.Text = "";
+                        return;
                     }
                 }
                 else
@@ -255,20 +264,34 @@ namespace QuanLy_ChLaptop
                 MessageBox.Show("Phải có ít nhất một sản phẩm để lưu hóa đơn");
                 return;
             }
-            if (BUS_NhapHang.KiemTraTinhTrang(txt_HoaDon.Text) == 1)
+            else
             {
-                MessageBox.Show("Hóa đơn đã được lưu và đang chờ xét duyệt");
-                return;
+                if (BUS_NhapHang.KiemTraTinhTrang(txt_HoaDon.Text) == 1)
+                {
+                    MessageBox.Show("Hóa đơn đã được lưu và đang chờ xét duyệt");
+                    return;
+                }
+                if (BUS_NhapHang.LoadNhapHangChiTiet(txt_HoaDon.Text) == null)
+                {
+                    MessageBox.Show("Hóa đơn không có dữ liệu không được thực thi");
+                    return;
+                }
+                if (BUS_NhapHang.LuuHoaDon(txt_HoaDon.Text) == false)
+                {
+                    MessageBox.Show("Lưu không thành công");
+                    return;
+                }
+                else
+                {
+                    MessageBox.Show("Lưu thành công");
+                    LoadData();
+                    LoadCMB();
+                    data_HoaDonChiTiet.Enabled = false;
+                    txt_HoaDon.Enabled = true;
+                    return;
+                }
+                
             }
-            if(BUS_NhapHang.LuuHoaDon(txt_HoaDon.Text)==false)
-            {
-                MessageBox.Show("Lưu không thành công");
-            }
-            MessageBox.Show("Lưu thành công");
-            LoadData();
-            LoadCMB();
-            data_HoaDonChiTiet.Enabled = false;
-            txt_HoaDon.Enabled = true;
         }
         private void btn_Delete_Click(object sender, EventArgs e)
         {
@@ -372,11 +395,6 @@ namespace QuanLy_ChLaptop
             if (data_HoaDonChiTiet.Rows.Count == 0)
             {
                 MessageBox.Show("Phải có ít nhất một sản phẩm để lưu hóa đơn");
-                return;
-            }
-            if(BUS_BanHang.LoadBanHangDataGridViewHoaDon(txt_HoaDon.Text) == null)
-            {
-                MessageBox.Show("Vui nhập một sản phẩm vào hóa đơn");
                 return;
             }
             if (BUS_NhapHang.KiemTraTinhTrang(txt_HoaDon.Text) == 1)

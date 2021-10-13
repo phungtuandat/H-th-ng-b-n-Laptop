@@ -54,7 +54,7 @@ namespace BUS
             return DAO_ByeProduct.LayTenNCC(MANCC);
         }
 
-        public static bool CapNhatGiaChoLaptop(int gia, string malaptop)
+        public static bool CapNhatGiaChoLaptop(string gia, string malaptop)
         {
             return DAO_ByeProduct.CapNhatGiaChoLaptop(gia, malaptop);
         }

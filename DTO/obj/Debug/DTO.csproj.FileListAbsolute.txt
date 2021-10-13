@@ -24,3 +24,15 @@ D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DTO\obj\Debug\DTO.csproj.CoreCo
 D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DTO\obj\Debug\DTO.csproj.CopyComplete
 D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DTO\obj\Debug\DTO.dll
 D:\DPM185227_PhungTuanDat\DPM185227_PhungTuanDat\DTO\obj\Debug\DTO.pdb
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\bin\Debug\DTO.dll.config
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\bin\Debug\DTO.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\bin\Debug\DTO.pdb
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\obj\Debug\DTO.dll
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\DTO\obj\Debug\DTO.pdb

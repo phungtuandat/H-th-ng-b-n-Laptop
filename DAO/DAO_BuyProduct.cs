@@ -169,7 +169,7 @@ namespace DAO
             return dt.Rows[0]["MaHD"].ToString();
         }
 
-        public static bool CapNhatGiaChoLaptop(int gia,string malaptop)
+        public static bool CapNhatGiaChoLaptop(string gia,string malaptop)
         {
             string query = string.Format(@"Update Laptop set GiaBan = {0} where MaLaptop = '{1}'",gia,malaptop);
             ncc = Data_Provides.KetNoi();

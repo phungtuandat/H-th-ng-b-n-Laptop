@@ -1131,6 +1131,6 @@ D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\QuanLy_ChLaptop\obj\Debug\
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\QuanLy_ChLaptop\obj\Debug\GUI.csproj.GenerateResource.cache
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\QuanLy_ChLaptop\obj\Debug\QuanLy_ChLaptop.exe.licenses
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\QuanLy_ChLaptop\obj\Debug\GUI.csproj.CoreCompileInputs.cache
-D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\QuanLy_ChLaptop\obj\Debug\GUI.csproj.CopyComplete
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\QuanLy_ChLaptop\obj\Debug\QuanLy_ChLaptop.exe
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\QuanLy_ChLaptop\obj\Debug\QuanLy_ChLaptop.pdb
+D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\QuanLy_ChLaptop\obj\Debug\GUI.csproj.CopyComplete
