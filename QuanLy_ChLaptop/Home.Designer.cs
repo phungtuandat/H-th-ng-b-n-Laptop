@@ -30,11 +30,11 @@ namespace QuanLy_ChLaptop
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
-            this.pictureEdit1 = new DevExpress.XtraEditors.PictureEdit();
+            this.pic_BackGround = new DevExpress.XtraEditors.PictureEdit();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.gp_Info = new DevExpress.XtraEditors.GroupControl();
             this.xuiCustomPictureBox5 = new XanderUI.XUICustomPictureBox();
             this.xuiCustomPictureBox4 = new XanderUI.XUICustomPictureBox();
             this.xuiCustomPictureBox6 = new XanderUI.XUICustomPictureBox();
@@ -44,12 +44,12 @@ namespace QuanLy_ChLaptop
             this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
-            this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
+            this.lbl_info_gt = new DevExpress.XtraEditors.LabelControl();
             this.labelControl9 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl8 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl7 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl6 = new DevExpress.XtraEditors.LabelControl();
-            this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
+            this.lbl_NameStore = new DevExpress.XtraEditors.LabelControl();
             this.cmb_SanPhamGiam = new DevExpress.XtraEditors.GroupControl();
             this.lbl_ThongBao = new System.Windows.Forms.Label();
             this.cmb_SanPhamHet = new MetroFramework.Controls.MetroComboBox();
@@ -61,28 +61,28 @@ namespace QuanLy_ChLaptop
             this.label5 = new System.Windows.Forms.Label();
             this.lbl_TenTaiKhoan = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit1.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
-            this.groupControl1.SuspendLayout();
+            this.images = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_BackGround.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gp_Info)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cmb_SanPhamGiam)).BeginInit();
-            this.cmb_SanPhamGiam.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
-            this.groupControl2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.images)).BeginInit();
             this.SuspendLayout();
             // 
-            // pictureEdit1
+            // pic_BackGround
             // 
-            this.pictureEdit1.EditValue = ((object)(resources.GetObject("pictureEdit1.EditValue")));
-            this.pictureEdit1.Location = new System.Drawing.Point(1, 0);
-            this.pictureEdit1.Name = "pictureEdit1";
-            this.pictureEdit1.Properties.Appearance.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.pictureEdit1.Properties.Appearance.Options.UseBackColor = true;
-            this.pictureEdit1.Properties.PictureAlignment = System.Drawing.ContentAlignment.MiddleLeft;
-            this.pictureEdit1.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
-            this.pictureEdit1.Size = new System.Drawing.Size(315, 63);
-            this.pictureEdit1.TabIndex = 3;
+            this.pic_BackGround.EditValue = ((object)(resources.GetObject("pic_BackGround.EditValue")));
+            this.pic_BackGround.Location = new System.Drawing.Point(1, 0);
+            this.pic_BackGround.Name = "pictureEdit1";
+            // 
+            // 
+            // 
+            this.pic_BackGround.Properties.Appearance.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.pic_BackGround.Properties.Appearance.Options.UseBackColor = true;
+            this.pic_BackGround.Properties.PictureAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.pic_BackGround.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pic_BackGround.Size = new System.Drawing.Size(315, 63);
+            this.pic_BackGround.TabIndex = 3;
             // 
             // label2
             // 
@@ -120,30 +120,30 @@ namespace QuanLy_ChLaptop
             this.label3.TabIndex = 5;
             this.label3.Text = "LAPTOP JPG";
             // 
-            // groupControl1
+            // gp_Info
             // 
-            this.groupControl1.Appearance.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.groupControl1.Appearance.Options.UseBackColor = true;
-            this.groupControl1.Controls.Add(this.xuiCustomPictureBox5);
-            this.groupControl1.Controls.Add(this.xuiCustomPictureBox4);
-            this.groupControl1.Controls.Add(this.xuiCustomPictureBox6);
-            this.groupControl1.Controls.Add(this.xuiCustomPictureBox3);
-            this.groupControl1.Controls.Add(this.xuiCustomPictureBox2);
-            this.groupControl1.Controls.Add(this.xuiCustomPictureBox1);
-            this.groupControl1.Controls.Add(this.labelControl5);
-            this.groupControl1.Controls.Add(this.labelControl3);
-            this.groupControl1.Controls.Add(this.labelControl4);
-            this.groupControl1.Controls.Add(this.labelControl2);
-            this.groupControl1.Controls.Add(this.labelControl9);
-            this.groupControl1.Controls.Add(this.labelControl8);
-            this.groupControl1.Controls.Add(this.labelControl7);
-            this.groupControl1.Controls.Add(this.labelControl6);
-            this.groupControl1.Controls.Add(this.labelControl1);
-            this.groupControl1.Location = new System.Drawing.Point(2, 63);
-            this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(314, 286);
-            this.groupControl1.TabIndex = 7;
-            this.groupControl1.Text = "Thông tin cơ bản";
+            this.gp_Info.Appearance.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.gp_Info.Appearance.Options.UseBackColor = true;
+            this.gp_Info.Controls.Add(this.xuiCustomPictureBox5);
+            this.gp_Info.Controls.Add(this.xuiCustomPictureBox4);
+            this.gp_Info.Controls.Add(this.xuiCustomPictureBox6);
+            this.gp_Info.Controls.Add(this.xuiCustomPictureBox3);
+            this.gp_Info.Controls.Add(this.xuiCustomPictureBox2);
+            this.gp_Info.Controls.Add(this.xuiCustomPictureBox1);
+            this.gp_Info.Controls.Add(this.labelControl5);
+            this.gp_Info.Controls.Add(this.labelControl3);
+            this.gp_Info.Controls.Add(this.labelControl4);
+            this.gp_Info.Controls.Add(this.lbl_info_gt);
+            this.gp_Info.Controls.Add(this.labelControl9);
+            this.gp_Info.Controls.Add(this.labelControl8);
+            this.gp_Info.Controls.Add(this.labelControl7);
+            this.gp_Info.Controls.Add(this.labelControl6);
+            this.gp_Info.Controls.Add(this.lbl_NameStore);
+            this.gp_Info.Location = new System.Drawing.Point(2, 63);
+            this.gp_Info.Name = "groupControl1";
+            this.gp_Info.Size = new System.Drawing.Size(314, 286);
+            this.gp_Info.TabIndex = 7;
+            this.gp_Info.Text = "Thông tin cơ bản";
             // 
             // xuiCustomPictureBox5
             // 
@@ -239,7 +239,7 @@ namespace QuanLy_ChLaptop
             // 
             this.labelControl5.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.labelControl5.Appearance.Options.UseFont = true;
-            this.labelControl5.Location = new System.Drawing.Point(9, 203);
+            this.labelControl5.Location = new System.Drawing.Point(10, 203);
             this.labelControl5.Name = "labelControl5";
             this.labelControl5.Size = new System.Drawing.Size(87, 18);
             this.labelControl5.TabIndex = 2;
@@ -271,17 +271,17 @@ namespace QuanLy_ChLaptop
             this.labelControl4.ToolTip = "Giờ mở cửa (Time Open)";
             this.labelControl4.ToolTipIconType = DevExpress.Utils.ToolTipIconType.Question;
             // 
-            // labelControl2
+            // lbl_info_gt
             // 
-            this.labelControl2.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.labelControl2.Appearance.Options.UseFont = true;
-            this.labelControl2.Location = new System.Drawing.Point(9, 66);
-            this.labelControl2.Name = "labelControl2";
-            this.labelControl2.Size = new System.Drawing.Size(92, 18);
-            this.labelControl2.TabIndex = 2;
-            this.labelControl2.Text = "Tên cửa hàng";
-            this.labelControl2.ToolTip = "Tên cửa hàng (Name Shop)";
-            this.labelControl2.ToolTipIconType = DevExpress.Utils.ToolTipIconType.Question;
+            this.lbl_info_gt.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.lbl_info_gt.Appearance.Options.UseFont = true;
+            this.lbl_info_gt.Location = new System.Drawing.Point(11, 66);
+            this.lbl_info_gt.Name = "labelControl2";
+            this.lbl_info_gt.Size = new System.Drawing.Size(92, 18);
+            this.lbl_info_gt.TabIndex = 2;
+            this.lbl_info_gt.Text = "Tên cửa hàng";
+            this.lbl_info_gt.ToolTip = "Tên cửa hàng (Name Shop)";
+            this.lbl_info_gt.ToolTipIconType = DevExpress.Utils.ToolTipIconType.Question;
             // 
             // labelControl9
             // 
@@ -311,7 +311,7 @@ namespace QuanLy_ChLaptop
             this.labelControl7.Appearance.Options.UseFont = true;
             this.labelControl7.Location = new System.Drawing.Point(59, 101);
             this.labelControl7.Name = "labelControl7";
-            this.labelControl7.Size = new System.Drawing.Size(240, 38);
+            this.labelControl7.Size = new System.Drawing.Size(239, 38);
             this.labelControl7.TabIndex = 1;
             this.labelControl7.Text = "Số 113, Mỹ Bình , Long Xuyên\r\nAn Giang\r\n";
             this.labelControl7.ToolTipIconType = DevExpress.Utils.ToolTipIconType.Information;
@@ -327,16 +327,16 @@ namespace QuanLy_ChLaptop
             this.labelControl6.Text = "CỬA HÀNG LAPTOP JPG";
             this.labelControl6.ToolTipIconType = DevExpress.Utils.ToolTipIconType.Information;
             // 
-            // labelControl1
+            // lbl_NameStore
             // 
-            this.labelControl1.Appearance.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.labelControl1.Appearance.Options.UseFont = true;
-            this.labelControl1.Location = new System.Drawing.Point(23, 31);
-            this.labelControl1.Name = "labelControl1";
-            this.labelControl1.Size = new System.Drawing.Size(249, 25);
-            this.labelControl1.TabIndex = 1;
-            this.labelControl1.Text = "CỬA HÀNG LAPTOP JPG";
-            this.labelControl1.ToolTipIconType = DevExpress.Utils.ToolTipIconType.Information;
+            this.lbl_NameStore.Appearance.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.lbl_NameStore.Appearance.Options.UseFont = true;
+            this.lbl_NameStore.Location = new System.Drawing.Point(32, 31);
+            this.lbl_NameStore.Name = "labelControl1";
+            this.lbl_NameStore.Size = new System.Drawing.Size(249, 25);
+            this.lbl_NameStore.TabIndex = 1;
+            this.lbl_NameStore.Text = "CỬA HÀNG LAPTOP JPG";
+            this.lbl_NameStore.ToolTipIconType = DevExpress.Utils.ToolTipIconType.Information;
             // 
             // cmb_SanPhamGiam
             // 
@@ -452,15 +452,15 @@ namespace QuanLy_ChLaptop
             this.label7.TabIndex = 0;
             this.label7.Text = "Tên tài khoản";
             // 
-            // pictureBox1
+            // images
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(316, 1);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(893, 597);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 8;
-            this.pictureBox1.TabStop = false;
+            this.images.Image = ((System.Drawing.Image)(resources.GetObject("images.Image")));
+            this.images.Location = new System.Drawing.Point(316, 1);
+            this.images.Name = "images";
+            this.images.Size = new System.Drawing.Size(893, 597);
+            this.images.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.images.TabIndex = 8;
+            this.images.TabStop = false;
             // 
             // Home
             // 
@@ -469,44 +469,38 @@ namespace QuanLy_ChLaptop
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1202, 599);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.images);
             this.Controls.Add(this.groupControl2);
             this.Controls.Add(this.cmb_SanPhamGiam);
-            this.Controls.Add(this.groupControl1);
+            this.Controls.Add(this.gp_Info);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.pictureEdit1);
+            this.Controls.Add(this.pic_BackGround);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Home";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Home";
             this.Load += new System.EventHandler(this.Home_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit1.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
-            this.groupControl1.ResumeLayout(false);
-            this.groupControl1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_BackGround.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gp_Info)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cmb_SanPhamGiam)).EndInit();
-            this.cmb_SanPhamGiam.ResumeLayout(false);
-            this.cmb_SanPhamGiam.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
-            this.groupControl2.ResumeLayout(false);
-            this.groupControl2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.images)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-        private DevExpress.XtraEditors.PictureEdit pictureEdit1;
+        private DevExpress.XtraEditors.PictureEdit pic_BackGround;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label3;
-        private DevExpress.XtraEditors.GroupControl groupControl1;
+        private DevExpress.XtraEditors.GroupControl gp_Info;
         private DevExpress.XtraEditors.GroupControl cmb_SanPhamGiam;
-        private DevExpress.XtraEditors.LabelControl labelControl1;
-        private DevExpress.XtraEditors.LabelControl labelControl2;
+        private DevExpress.XtraEditors.LabelControl lbl_NameStore;
+        private DevExpress.XtraEditors.LabelControl lbl_info_gt;
         private DevExpress.XtraEditors.LabelControl labelControl5;
         private DevExpress.XtraEditors.LabelControl labelControl3;
         private DevExpress.XtraEditors.LabelControl labelControl4;
@@ -530,6 +524,6 @@ namespace QuanLy_ChLaptop
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label lbl_TenTaiKhoan;
         private System.Windows.Forms.Label lbl_TimeVao;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox images;
     }
 }

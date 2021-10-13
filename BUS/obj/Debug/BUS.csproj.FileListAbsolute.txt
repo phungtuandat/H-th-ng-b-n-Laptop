@@ -122,3 +122,34 @@ D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\BUS\obj\Debug\BUS.csproj.C
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\BUS\obj\Debug\BUS.dll
 D:\Học online\ĐồÁn2_Demo\DPM185227_PhungTuanDat\BUS\obj\Debug\BUS.pdb
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\BUS.dll.config
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\BUS.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DAO.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DTO.dll.config
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\obj\Debug\BUS.dll
+C:\Users\ADMIN\Desktop\H-th-ng-b-n-Laptop\BUS\obj\Debug\BUS.pdb
